@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="search">Search</string>
+    <string name="bona_italian">Bona Italian</string>
+    <string name="tasty_spicy">Tasty spicy</string>
+    <string name="steak">something steak</string>
+    <string name="great_tasting_steak_i_think">great tasting steak i think</string>
+    <string name="macaroni">Macaroni</string>
+    <string name="plenty_of_cheese_of_this_mac">plenty of cheese of this mac</string>
+    <string name="_11_00">11.00</string>
+    <string name="special_steak">special steak</string>
+    <string name="_21_00">21.00</string>
+    <string name="_10_00">10.00</string>
+    <string name="lasagna">lasagna</string>
+</resources>
